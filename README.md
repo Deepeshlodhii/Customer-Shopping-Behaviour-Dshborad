@@ -11,7 +11,7 @@ The objective is to showcase practical skills across the complete analytics life
 * Business-driven SQL analysis
 * Interactive dashboarding
 * Insight communication through reports and presentations
-
+* <img width="982" height="594" alt="image" src="https://github.com/user-attachments/assets/ff8414be-9aa5-4715-b556-ece953b74cb0" />
 ---
 
 ## 🎯 Key Objectives & Deliverables
